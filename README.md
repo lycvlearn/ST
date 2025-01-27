@@ -1,3 +1,13 @@
+# Rebuttal
+We have consolidated all content onto a single page for the convenience of reviewers during the rebuttal period. The first half of this page contains all the materials requested by the reviewers that could not be accommodated within the one-page rebuttal file. The latter half presents the original GitHub assets associated with this project.
+
+## More 
+
+
+
+
+> -------------------------------------------------------------------------- divider line --------------------------------------------------------------------------
+
 # Strong Neck
 
 The official implementation for the paper Tracker is Filter: A Bottleneck Structure for Visual Object Tracking
