@@ -2,7 +2,9 @@
 We have consolidated all content onto a single page for the convenience of reviewers during the rebuttal period. The first half of this page contains all the materials requested by the reviewers that could not be accommodated within the one-page rebuttal file. The latter half presents the original GitHub assets associated with this project.
 
 ## More 
+>If you find the images on this anonymous GitHub page too small, you can right-click on the image, select "Open image in new tab," and then download the file. All images are in SVG format, which can be scaled up without loss of quality.
 
+### AiATrack
 ![UIR Figure 1](sup/pics/UIR/fig1.svg)
 
 # Divider Line
