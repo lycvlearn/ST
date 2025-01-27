@@ -20,6 +20,12 @@ We have consolidated all content onto a single page for the convenience of revie
 ![UIR Figure 5](sup/pics/UIR/fig5.svg)
 
 ![UIR Figure 6](sup/pics/UIR/fig6.svg)
+
+### Mixformer
+>If you find the images on this anonymous GitHub page too small, you can right-click on the image, select "Open image in new tab," and then download the file. All images are in SVG format, which can be scaled up without loss of quality.
+
+![UIR Figure 7](sup/pics/UIR/fig7.svg)
+
 # Divider Line
 > :point_up_2: rebuttal ------------------------------------------ divider line ------------------------------------------ :point_down: Github Assets
 
