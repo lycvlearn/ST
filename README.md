@@ -10,11 +10,16 @@ We have consolidated all content onto a single page for the convenience of revie
 
 ![UIR Figure 2](sup/pics/UIR/fig2.svg)
 
-### AiATrack
+### ARTrack
 >If you find the images on this anonymous GitHub page too small, you can right-click on the image, select "Open image in new tab," and then download the file. All images are in SVG format, which can be scaled up without loss of quality.
 
 ![UIR Figure 3](sup/pics/UIR/fig3.svg)
 
+![UIR Figure 4](sup/pics/UIR/fig4.svg)
+
+![UIR Figure 5](sup/pics/UIR/fig5.svg)
+
+![UIR Figure 6](sup/pics/UIR/fig6.svg)
 # Divider Line
 > :point_up_2: rebuttal ------------------------------------------ divider line ------------------------------------------ :point_down: Github Assets
 
