@@ -7,6 +7,7 @@ We have consolidated all content onto a single page for the convenience of revie
 ### AiATrack
 ![UIR Figure 1](sup/pics/UIR/fig1.svg)
 
+![UIR Figure 2](sup/pics/UIR/fig2.svg)
 # Divider Line
 > :point_up_2: rebuttal ------------------------------------------ divider line ------------------------------------------ :point_down: Github Assets
 
