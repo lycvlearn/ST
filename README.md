@@ -713,7 +713,8 @@ class Modulator4(BaseModulator):
 </div>
 ```
 </details>
-:point_up:  Click to show the code for the four different modulating techniques. Below, we provide the experimental results of the four modulators:
+
+:point_up_2:  Click to show the code for the four different modulating techniques. Below, we provide the experimental results of the four modulators:
 
 
 
