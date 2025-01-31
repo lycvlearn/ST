@@ -10,9 +10,42 @@ We first measure the Unit Impulse Response (UIR) for each encode layer to know t
 ![failed attempts](https://github.com/user-attachments/assets/8cd628c0-d78e-45a6-aa47-1e207352feea)
 
 Then, we applied four distinct frequency modulation techniques, each designed to alter only the frequency components of the entire token, without incorporating any spatial priors.
-<details>
-<summary>click to open</summary>
-  ```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Folding and Scroll</title>
+    <style>
+        .code-container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #f4f4f4;
+            border: 1px solid #ccc;
+            padding: 10px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .code-header {
+            cursor: pointer;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .code-content {
+            display: none;
+        }
+        .code-content pre {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="code-container">
+    <div class="code-header" onclick="toggleCode('code1')">点击展开/折叠代码</div>
+    <div class="code-content" id="code1">
+        <pre><code>
+
 def dist(number, mean_list,std_list, tolerance=0.1, adjustment_factor=10):
     mean_value = np.mean(mean_list)
     std_dev_value = sum(std_list)/(len(std_list)**0.5)
@@ -707,7 +740,22 @@ class Modulator4(BaseModulator):
             image = (1-gi.mean()*0.08)*image + gi.mean()*0.08*img_modu
 
             return image
-</details> ```
+        </code></pre>
+    </div>
+</div>
+
+<script>
+    function toggleCode(id) {
+        var codeContent = document.getElementById(id);
+        if (codeContent.style.display === "none") {
+            codeContent.style.display = "block";
+        } else {
+            codeContent.style.display = "none";
+        }
+    }
+</script>
+</body>
+</html>
 
 ## For Reviewer <span style="color:red;">SyPc</span>
 
