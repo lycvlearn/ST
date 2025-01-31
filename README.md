@@ -716,7 +716,9 @@ class Modulator4(BaseModulator):
 
 :point_up_2:  Click to show the code for the four different modulating techniques. Below, we provide the experimental results of the four modulators:
 
+![image](https://github.com/user-attachments/assets/fce0d225-c786-445a-b843-f6b9c2b7e2fc)
 
+Upon analyzing the results, it is evident that the four modulators in question did not have a substantial impact on the tracker's performance. Specifically, they neither significantly enhanced nor degraded the effectiveness of the tracker. This suggests that directly altering the input feature’s frequency spectrum can help transmit the entire set of features more effectively, rather than just those elements associated with the target. In other words, even if the tracker can be regarded as a filter, directly altering the input feature’s frequency spectrum does not necessarily improve the performance of the tracking tasks.
 
 ## For Reviewer <span style="color:red;">SyPc</span>
 
